@@ -13,6 +13,7 @@
 		D429874A1DBED67D0026EC76 /* DoIt.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D42987481DBED67D0026EC76 /* DoIt.xcdatamodeld */; };
 		D429874C1DBED67D0026EC76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D429874B1DBED67D0026EC76 /* Assets.xcassets */; };
 		D429874F1DBED67D0026EC76 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D429874D1DBED67D0026EC76 /* LaunchScreen.storyboard */; };
+		D42987571DBEFABB0026EC76 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = D42987561DBEFABB0026EC76 /* Task.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D429874B1DBED67D0026EC76 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D429874E1DBED67D0026EC76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D42987501DBED67D0026EC76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D42987561DBEFABB0026EC76 /* Task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D42987411DBED67D0026EC76 /* AppDelegate.swift */,
 				D42987431DBED67D0026EC76 /* ViewController.swift */,
 				D42987451DBED67D0026EC76 /* Main.storyboard */,
+				D42987561DBEFABB0026EC76 /* Task.swift */,
 				D429874B1DBED67D0026EC76 /* Assets.xcassets */,
 				D429874D1DBED67D0026EC76 /* LaunchScreen.storyboard */,
 				D42987501DBED67D0026EC76 /* Info.plist */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D42987571DBEFABB0026EC76 /* Task.swift in Sources */,
 				D429874A1DBED67D0026EC76 /* DoIt.xcdatamodeld in Sources */,
 				D42987441DBED67D0026EC76 /* ViewController.swift in Sources */,
 				D42987421DBED67D0026EC76 /* AppDelegate.swift in Sources */,
